@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Danish Waseem 👋</h1>
 <p align="center">
   <b>Data Engineer & Python Developer</b> · Building production pipelines, CI/CD systems, and ML-powered backends<br/>
-  📍 San Jose, CA &nbsp;|&nbsp; 🎓 MS Computer Science @ SJSU &nbsp;|&nbsp; 📬 <a href="mailto:danish.waseem@outlook.com">danish.waseem@outlook.com</a>
+  📍 San Jose, CA &nbsp;|&nbsp; 🎓 MS Applied Data Intelligence @ SJSU &nbsp;|&nbsp; 📬 <a href="mailto:danish.waseem@outlook.com">danish.waseem@outlook.com</a>
 </p>
 
 ---

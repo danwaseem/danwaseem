@@ -61,8 +61,3 @@ Currently finishing my MS in Applied Data Intelligence at San Jose State Univers
 - 📧 danish.waseem@outlook.com
 - 🐙 Open to collaboration, feedback, and new opportunities
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danwaseem&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
-</p>
